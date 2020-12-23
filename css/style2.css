@@ -1,0 +1,15 @@
+/*  start sign up */
+body{
+    background-image: url("../img/edusite5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.col-sm-offset-4{
+    transform: translate(400px);
+    margin-top: 30px;
+}
+/* End sign up */
+/* start sign in */
+
+
+
